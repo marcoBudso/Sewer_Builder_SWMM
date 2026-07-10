@@ -1,0 +1,24 @@
+[general]
+name=SWMM Sewer Builder
+qgisMinimumVersion=3.16
+qgisMaximumVersion=3.99
+version=1.0.0
+author=Marco Buoso
+email=
+category=Analysis
+icon=icon.png
+experimental=False
+deprecated=False
+hasProcessingProvider=False
+
+description=Professional QGIS plugin for sewer network design, longitudinal profile generation, drainage catchment delineation, cost estimation and EPA SWMM model creation.
+
+about=SWMM Sewer Builder is a QGIS plugin for designing and analysing gravity sewer networks. It supports interactive pipe and manhole editing, longitudinal profile generation, hydraulic checks, drainage catchment creation, design storm definition, EPA SWMM INP export, SWMM simulation, storage nodes, pumps, weirs, orifices and GIS-based result mapping.
+
+tags=sewer,swmm,stormwater,wastewater,drainage,hydraulics,qgis,gis,pipe,manhole,outfall,storage,pump,weir,orifice,subcatchment,cost-estimation,civil-engineering
+
+homepage=https://github.com/MarcoBuoso/SewerBuilder
+repository=https://github.com/MarcoBuoso/SewerBuilder
+tracker=https://github.com/MarcoBuoso/SewerBuilder/issues
+
+changelog=1.0.0 - First public international release with English interface, restored manual GIS node insertion, translated profile/export fields, English GeoPackage output names and improved map tool cleanup on Profile Editor close.

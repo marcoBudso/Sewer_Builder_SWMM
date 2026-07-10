@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: SWMM Sewer Builder
+authors:
+  - family-names: Buoso
+    given-names: Marco
+version: 1.0.0
+license: GPL-3.0-only
+message: If you use SWMM Sewer Builder in professional or research work, please cite this repository.

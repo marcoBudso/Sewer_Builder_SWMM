@@ -9,7 +9,7 @@ SWMM Sewer Builder provides a GIS-based workflow for designing gravity sewer net
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![EPA SWMM](https://img.shields.io/badge/EPA_SWMM-INP_export-lightgrey)
 ![License](https://img.shields.io/badge/license-GPL--3.0-orange)
-Tutorial link on Youtube (https://youtu.be/NaxhriQfxME?si=aa2Z1cPkYbmm257r)
+![Tutorial link on Youtube](https://youtu.be/NaxhriQfxME?si=aa2Z1cPkYbmm257r)
 
 ## Main features
 
